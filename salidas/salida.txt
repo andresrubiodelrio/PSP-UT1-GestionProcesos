@@ -1,0 +1,53 @@
+MMicrosoft Windows [Versi¢n 10.0.26200.9457]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos>MKDIR NUEVO
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos>CD NUEVO
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>ECHO CREO FICHERO > Mifichero.txt
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>DIR
+ El volumen de la unidad G es Google Drive
+ El n£mero de serie del volumen es: 1983-1116
+
+ Directorio de G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO
+
+29/09/2026  21:26    <DIR>          .
+29/09/2026  21:26    <DIR>          ..
+29/09/2026  21:26                15 Mifichero.txt
+               1 archivos             15 bytes
+               2 dirs  195.777.634.304 bytes libres
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>DIRR
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>ECHO FIN COMANDOS 
+FIN COMANDOS 
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>Microsoft Windows [Versi¢n 10.0.26200.9457]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos>MKDIR NUEVO
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos>CD NUEVO
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>ECHO CREO FICHERO > Mifichero.txt
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>DIR
+ El volumen de la unidad G es Google Drive
+ El n£mero de serie del volumen es: 1983-1116
+
+ Directorio de G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO
+
+30/09/2026  11:58    <DIR>          .
+30/09/2026  11:58    <DIR>          ..
+30/09/2026  11:58                15 Mifichero.txt
+               1 archivos             15 bytes
+               2 dirs  103.160.164.352 bytes libres
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>DIRR
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>ECHO FIN COMANDOS 
+FIN COMANDOS 
+
+G:\Mi unidad\0Curso2026_2027\clases\DAM\PSP\Temario\UT1\ejemplos\GestionProcesos\NUEVO>
